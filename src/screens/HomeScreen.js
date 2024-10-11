@@ -6,7 +6,8 @@ import {View, Text, StyleSheet} from 'react-native';
 const HomeScreen = () => {
     return (
         <View style={styles.container}>
-            <Text style={styles.forText}>Welcome to Ahmad's App</Text>
+            <Text style={styles.forText}>Welcome to Ahmad's Apps
+            </Text>
         </View>
     );
 };
