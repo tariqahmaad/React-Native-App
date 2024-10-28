@@ -7,6 +7,7 @@ const ComponentScreen = () => {
         <View>
             <Text style={styles.textStyle}>This is the component screen</Text>
             <Text style={styles.textStyle}>This is the component 2 screen</Text>
+            <Text style={styles.textStyle}>This is the component 3 screen</Text>
         </View>
     )
 }
